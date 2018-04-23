@@ -1,3 +1,3 @@
-# template-loader.vim
+# template-loader.nvim
 
 
